@@ -1,5 +1,5 @@
 package com.company;
-
+/*
 public class Fg {
     public static void main(String[]args){
 
@@ -10,3 +10,6 @@ public class Fg {
         triangyl.method();
     }
 }
+
+
+ */
